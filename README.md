@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dookisan
-- 👀 I’m interested in programming and electronics
-- 🌱 I’m currently learning Python
+- 👀 I’m a Test-engineer and specialize in backend development
+- ☕ Most used languages: C, C++, Rust, Python
+- 🎸 Fellow metalhead 
 - ⚡ Fun fact: I love rainy days
 
 <!---
